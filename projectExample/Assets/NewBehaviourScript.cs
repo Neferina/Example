@@ -11,6 +11,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        console.write("hello world");
+        console.write("hell");
 	}
 }
